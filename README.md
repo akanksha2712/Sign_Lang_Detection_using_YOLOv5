@@ -1,1 +1,1 @@
-# Sign-Lang-Detection-using-YOLO-v5
+# Sign_Lang_Det_using_YOLOv5
